@@ -3,6 +3,6 @@ Multi-object detection is a task in computer vision where a system identifies mu
 
 
 Group Members:
-Sachin Adihalli Ravigowda
-Darshan Venkatesh
-Ashish Gowda Javaga Sathish
+Sachin Adihalli Ravigowda,
+Darshan Venkatesh,
+Ashish Gowda Javaga Sathish.
