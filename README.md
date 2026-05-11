@@ -1,4 +1,4 @@
-# Multi-Object-Detection
+# Senior-IT-Project---Multi-Object-Detection
 Group Members:
 
 Sachin Adihalli Ravigowda,
