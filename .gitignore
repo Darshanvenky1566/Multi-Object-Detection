@@ -1,0 +1,7 @@
+*.pt
+uploads/
+results/
+__pycache__/
+*.pyc
+.vscode/settings.json
+.env
