@@ -1,0 +1,10 @@
+flask
+pymongo[srv]
+dnspython
+python-dotenv
+werkzeug
+ultralytics
+opencv-python
+numpy
+Pillow
+waitress
