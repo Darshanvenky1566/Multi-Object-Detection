@@ -4,4 +4,8 @@ results/
 __pycache__/
 *.pyc
 .vscode/settings.json
-.env
+.envflask_pid.txt
+flask_job_id.txt
+*.log
+flask_pid.txt
+*.log
