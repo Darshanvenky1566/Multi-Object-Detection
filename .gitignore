@@ -10,4 +10,5 @@ results/
 flask_pid.txt
 flask_job_id.txt
 flask_stderr.log
-flask_stdout.log
+flask_stdout.logtemp_*.py
+temp_*.py
